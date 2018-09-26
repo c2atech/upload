@@ -8,4 +8,4 @@ Projeto simples de upload de imagem utilizando storage do laravel.
 # Versão do projeto
 - Laravel 5.6
 - MySQL
-- PHP > 7
+- PHP >= 7
